@@ -1,0 +1,2 @@
+# typefriend
+Type Friend
